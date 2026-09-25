@@ -15,6 +15,6 @@ antwoord: c435f9c Homepage naar versie 2
 git commando: git show 183bbd8
 
 OPDRACHT 7
-a.
-b.
-c.
+a. de lokale branch main in de backup liep achter op de remote branch main op github
+b. commit is lokaal vastleggen, push is naar github brengen
+c. dan blijft de main stabiel en werkend
