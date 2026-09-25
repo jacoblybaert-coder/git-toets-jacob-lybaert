@@ -1,11 +1,18 @@
 ANTWOORDEN TOETS GIT & GITHUB
-Naam: jouw voornaam en achternaam
+Naam: Jacob Lybaert
 
 OPDRACHT 3
-1.
+1. 
+git commando: git log --oneline
+antwoord: 183bbd8
 2.
+git commando: git log --oneline -1 -- index.html
+antwoord : c435f9c Homepage naar versie 2
 3.
-4.
+git commando: git log -S"<p>Versie 2</p>" --oneline
+antwoord: c435f9c Homepage naar versie 2
+4. 
+git commando: git show 183bbd8
 
 OPDRACHT 7
 a.
